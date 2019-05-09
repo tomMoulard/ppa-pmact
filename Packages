@@ -5,10 +5,10 @@ Maintainer: root <tom.moulard@laposte.net>
 Installed-Size: 7973
 Depends: libc6 (>= 2.16), libpcap0.8 (>= 1.0.0)
 Filename: ./pmacct-1.7.3_1.7.3_amd64.deb
-Size: 886628
-MD5sum: 0318263e80fd0a04c15eb791b06d0754
-SHA1: 6ef2e189a203cb97929174cd759c08c918c7f45a
-SHA256: 737cd3eaf305ab08a7fdc2a67a01195469a109d750928b7566ef03a5902256c9
+Size: 886396
+MD5sum: 76707d5324e9f2096dfb20a202cc23df
+SHA1: a584c3cb3567899fcc482995c2c147fb94385c52
+SHA256: b818bc37ce731fdc9ef6dc8706fec686539abd55eb41700ca22b90e7bf0e68d4
 Section: science
 Priority: optional
 Homepage: https://this.is.a.sample.home.page.com/
